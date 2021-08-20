@@ -1,5 +1,5 @@
 def main():
-    #escribe tu código abajo de esta línea
+    #escribe tu código abajo de esta línea 
     valor1 = float(input("Dame x1: "))
     valor2 = float(input("Dame y1: "))
     valor3 = float(input("Dame x2: "))
